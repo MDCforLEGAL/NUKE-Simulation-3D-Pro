@@ -4,6 +4,11 @@ Harita üzerinde istediğiniz noktaya, istediğiniz güçte nükleer patlama uyg
 
 > **Bu araç yalnızca eğitim ve görselleştirme amaçlıdır.** Bir saldırı planlama aracı değildir. Nükleer silahların kullanımı uluslararası hukuk kapsamında yasaktır.
 
+## Canlı site
+
+- **Yayın:** [site-9a50506684f1489eb9d35f75330a637a.freebuff.page](https://site-9a50506684f1489eb9d35f75330a637a.freebuff.page)
+- **Önizleme:** [site-b66000c28aac457189b96f5ab5fcadfb.freebuff.page](https://site-b66000c28aac457189b96f5ab5fcadfb.freebuff.page)
+
 ## Özellikler
 
 - **Sınırsız verim:** logaritmik 0,01 kt – 100.000 kt kaydırıcı, hazır değerler (Hiroşima, Nagazaki, Castle Bravo, Tsar Bomba) ve kt / Mt / Gt / Tt birimleriyle serbest giriş (1e10 kt'e kadar).
